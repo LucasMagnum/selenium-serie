@@ -4,6 +4,7 @@
     Desafio 02:
     Salvar os dados(titulo, link, autor) do post em um arquivo.
 """
+
 import os
 import json
 
