@@ -10,8 +10,8 @@ import json
 
 from selenium import webdriver
 
-BASE_DIR = os.path.dirname(__file__)
 
+BASE_DIR = os.path.dirname(__file__)
 
 firefox = webdriver.Firefox()
 firefox.get('http://pythonclub.com.br/')
